@@ -1,0 +1,228 @@
+#include <iostream>
+using namespace std;
+#include <math.h>
+#include<string.h>
+int q[8],b[4],n,mean_gp,mean_tot;
+//NOTE:the seed taken in char array but later changed to integer array such that each element represents
+//one digit and all operations are in intergers arrays after this.'q' is the 8-digit variable which
+//changes after each iteration and 'b' is the mid  4-digit no after prefixing with zeros if required.
+void genchar(long int sq)
+{
+  long int i,k=0,p;
+  long int s,r;
+  p = sq;
+  cout<<"\nsq="<<sq<<"\nq=";
+  while(p>0)
+    {
+      r = p%10;
+      q[k]= r;
+      cout<<q[k];
+      k++;
+      p=p/10;
+    }
+  q[k]='\0';
+  n=k;
+  
+    	
+}
+
+
+
+
+void genmid()
+{
+  int i,s,k=0,mid,a[8],flag=0;
+  while(n<8)
+    {
+      for(i=0;i<8-n;i++)
+    	{
+	  a[k]=0;
+	  k++;
+    	}
+      for(i=0;i<n;i++)
+    	{
+	  a[k] = q[i];
+	  k++;
+    	}
+      n = k;
+      flag=1;
+    
+      //	cout<<"\nq= "<<a[0];  //test
+    }
+  if (n==8)
+    {
+      k=0;
+      for(i=2;i<=5;i++)
+	{  if (flag==1)  //incase the while loop is accessed
+	    {
+	      b[k] = a[i];
+	      k++;
+	    }
+	  else     //incase the while loop is not accessed
+	    {
+	      b[k] = q[i];
+	      k++;
+	    }
+	}
+    }
+}
+
+
+
+
+
+void bubble_sort(int list[], int n)
+{
+  int c, d, t;
+  for (c=0 ;c<(n-1); c++)
+    for (d=0 ; d<(n-c-1); d++)
+      { if (list[d] > list[d+1])
+	  { t         = list[d];
+	    list[d]   = list[d+1];
+	    list[d+1] = t; }
+      }
+}
+
+
+void mean(int GP[10][100],int o)
+{ long int mean[10];cout<<"\n\n Mean"<<o;
+  for(int i=0;i<=o;i++)
+    {  mean[i]=0; int x=GP[i][0];
+      for(int j=0;(j<GP[i][1]); j++)
+	{ 
+	  mean[i]=mean[i]+GP[i][j+2];
+	}
+      mean[i]=mean[i]/GP[i][1];
+      cout<<"\n["<<1000*x<<"-"<<1000*(x+1)<<"] group:"<<mean[i]<<" ";  
+    }
+  for(int k=0;k<=o;k++){mean_gp=mean_gp+mean[k];}
+  mean_gp/=o;
+}
+
+void median(int GP[10][100],int o)
+{ int median[10];cout<<"\n\n Median";
+  for(int i=0;i<=o;i++)
+    {  median[i]=GP[i][int(GP[i][1]/2)+2]; int x=GP[i][0]; 
+      cout<<"\n["<<1000*x<<"-"<<1000*(x+1)<<"] group:"<<median[i]<<" ";  
+    }
+}
+
+void mode(int GP[10][100],int o)
+{ int mode[10];cout<<"\n\n Mode";
+  for(int i=0;i<=o;i++)
+    { int x=GP[i][0]; int number = GP[i][2]; mode[i]=number; int count = 1; int countMode = 1;
+      for(int j=0;(j<GP[i][1]); j++)
+	{
+	  if (GP[i][j+2] == number) 
+	    countMode++;
+	  else
+	    { 
+	      if (count < countMode) 
+		{
+                  countMode = count; 
+                  mode[i] = number;
+		}
+	      count = 1; 
+	      number = GP[i][j+2];
+	    }
+	  if(countMode==1)mode[i]=0;
+	}
+      cout<<"\n["<<1000*x<<"-"<<1000*(x+1)<<"] group:"<<mode[i]<<" ";  
+    }
+}
+
+
+
+int main()
+
+{
+  char a[4];
+  int i,j,m,l,t2=0;
+  long int s=0,sq,mid;
+  int temp[100];
+  cout<<"\nEnter a 4-digit seed:";
+  cin>>a;	
+  for(i=0;i<4;i++)
+    {
+      s = s + (int(a[i])-'0') * pow(10,3-i);
+    }
+  cout<<"\nthe seed:"<<s;
+  cout<<"\nEnter the no. of iterations:";
+  cin>>m;
+  for(i=0;i<m;i++)
+    {
+      sq = s*s;
+      genchar(sq);
+      genmid();
+      s=0;int k=0;
+      for(j=0;j<8;j++)
+	{         
+	  if((q[j]!=0)&&(k<4))  
+	    {
+	      s = s + q[j] * pow(10,3-k);
+	      k++;
+	    }
+	}
+      
+      cout<<"\n Random number after iteration "<<i+1<<" = ";
+      for(j=0;j<4;j++)
+	{  cout<<b[j]; }
+      temp[i]=((b[0]*1000)+(b[1]*100)+(b[2]*10)+b[3]);
+    }
+        
+  bubble_sort(temp,m);
+ 
+  for( i=0;i< m   ;i++)
+    mean_tot+=temp[i];
+  mean_tot/=m;   
+  
+
+
+  int CLASSES[10][100],f=2,o=0;
+  for(i=0; i<10;i++)
+    { if(f!=2) ++o; 
+      f=2; 
+      for(j=0; j<m;j++)
+	{ 
+	  if((temp[j]>(1000*i))&&(temp[j]<=(1000*(i+1))))
+	    { cout<<"\n["<<1000*i<<"-"<<1000*(i+1)<<"] group:"<<temp[j]<<" ";  
+	      CLASSES[o][0]=i;
+	      CLASSES[o][f]= temp[j]; f++;} 
+	  else  { CLASSES[o][f]=0; }
+
+	}
+      CLASSES[o][1]=(f-2);
+    }
+  /* cout<<"\n\n";
+  for(i=0;i<=o;i++)
+    {  cout<<"\n"<<CLASSES[i][1]<<" ";
+      for(j=0;(j<CLASSES[i][1]); j++)
+	{
+	  cout<<CLASSES[i][j+2]<< "  "; 
+	}
+	}*/
+  /*  mean(CLASSES,o);
+  median(CLASSES,o);
+  mode(CLASSES,o);
+  cout<<"Mean Total is :"<<mean_tot<<"\nMean Groups is"<<mean_gp<<"\n Mean Diff is"<<mean_tot-mean_gp<<"\n";*/
+  int d_g[10]={4.5,3.5,2.5,1.5,0.5,1.5,2.5,3.5,4.5};
+  long int freq[10],fd[10],fd2[10],fd3[10],fd4[10], sum_f=0,sum_fd=0, sum_fd2=0, sum_fd3=0, sum_fd4=0;
+  for(int v=0;v<=o;v++)
+    { 
+      cout<<"\n["<<1000*v<<"-"<<1000*(v+1)<<"] group:"<<" "; 
+      freq[v]=CLASSES[v][1]; cout<<freq[v]<<"       "; sum_f+=freq[v];
+      fd[v]=(freq[v]*d_g[v]); cout<<fd[v]<<"       "; sum_fd+=fd[v];
+      fd2[v]=(freq[v]*d_g[v]*d_g[v]); cout<<fd2[v]<<"        "; sum_fd2+=fd2[v];
+      fd3[v]=(freq[v]*d_g[v]*d_g[v]*d_g[v]);  cout<<fd3[v]<<"       "; sum_fd3+=fd3[v];
+      fd4[v]=(freq[v]*d_g[v]*d_g[v]*d_g[v]*d_g[v]);  cout<<fd4[v]<<"       ";   sum_fd4+=fd4[v];}
+  cout<<"\nSUM"<< sum_f<<"\n"<<sum_fd<<"\n"<<sum_fd2<<"\n"<<sum_fd3<<"\n"<<sum_fd4<<"\n";
+  float u1=sum_fd/sum_f,u2=sum_fd2/sum_f,u3=sum_fd3/sum_f,u4=sum_fd4/sum_f;
+
+  cout<<"\n"<<u1<<"\n"<<u2<<"\n"<<u3<<"\n"<<u4;
+  int h=1000;
+  float mu2=pow((u2-u1),2)*h*h; cout<<"\n mu2 "<<mu2;
+  float mu4 = ((u4-(4*u3*u1)+(6*u2*u1*u1)-(3*u1*u1*u1*u1))*(h*h*h*h));  cout<<"\n mu4 "<<mu4;
+  float m2u=mu2*mu2;
+  float k=mu4/m2u; cout<<"\n k:"<<k;
+  return 0;
+}

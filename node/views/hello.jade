@@ -1,0 +1,101 @@
+doctype transitional
+html(xmlns='http://www.w3.org/1999/xhtml')
+head
+    meta(http-equiv='Content-Type', content='text/html; charset=utf-8')
+    title login
+    :stylus
+               body
+		background-image url('background.png')
+
+		#top
+		  position absolute
+		  left -2px
+		  top -4px
+
+		#penny
+ 		  position relative
+		  left 10px
+		  top -10px
+
+		#balance
+                  position absolute
+		  left 50px
+		  top 70px
+		  font-size 17px
+
+		#user
+		  position absolute
+		  right 30px
+		  top 70px
+		  font-size 15px
+
+		.home, .deposit, .offers, .pay, .card, .world, .trade
+		  position absolute
+		  top 75px
+
+		.home
+  		  left 300px
+
+		.deposit
+		  left 411px
+
+		.offers
+		  left 531px
+
+		.pay
+		  left 651px
+
+		.card
+		  left 755px
+
+		.world
+
+  		  left 875px
+
+		.trade
+		  left 1001px
+
+		.frame
+		  position absolute
+		  left 0px
+		  top 150px
+
+		.home,.offers,.deposit,.pay,.card, .world, .trade
+		  transition all .2s ease-in-out
+
+		.home:hover,.offers:hover,.deposit:hover,.pay:hover,.card:hover,.world:hover,.trade:hover
+		  transform scale(1.1)
+
+  body
+    div
+      embed#top(src='pannel.svg', width='1350px')
+    div
+      embed#penny(src='penny partners logo.svg', width='190')
+    | ;
+    h2#balance Your Balance:
+    | &#x9;
+    h2#user Welcome MAA LE LODE
+    |  &#x9;
+    a(href='home_frame.html')
+      img.home(src='home icon.svg', width='60px', onmouseover="this.src='home_visited.svg';", onmouseout="this.src='home icon.svg';")
+    |  &#x9;
+    a(herf='#')
+      img.deposit(src='deposit.svg', width='60', onmouseover="this.src='deposit_visited.svg';", onmouseout="this.src='deposit.svg';")
+    | &#x9;
+    a(herf='#')
+      img.offers(src='offers.svg', width='60', onmouseover="this.src='offers_visited.svg';", onmouseout="this.src='offers.svg';")
+    | &#x9;
+    a(herf='#')
+      img.pay(src='paydeposit.svg', width='60', onmouseover="this.src='pay_visited.svg';", onmouseout="this.src='paydeposit.svg';")
+    | &#x9;
+    a(href='#')
+      img.card(src='card.svg', width='60', onmouseover="this.src='card_visited.svg';", onmouseout="this.src='card.svg';")
+    | &#x9;
+    a(href='#')
+      img.world(src='world.svg', width='60', onmouseover="this.src='world_visited.svg';", onmouseout="this.src='world.svg';")
+    | &#x9;
+    a(href='#')
+      img.trade(src='trade.svg', width='60', onmouseover="this.src='trade_visited.svg';", onmouseout="this.src='trade.svg';")
+    .frame
+      iframe(src='home_frame.html', height='740px', width='1150px', scrolling='no', frameborder='0')
+

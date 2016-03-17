@@ -1,0 +1,6 @@
+$filename= "fortestread";
+open FILE, $filename
+or die "Can't open '$filename': $!";
+my $lines = join '', <FILE>;
+$lines =~ s/^/$filename: /gm;
+print $lines;

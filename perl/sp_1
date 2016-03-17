@@ -1,0 +1,7 @@
+@a = (1..10);
+while( @a != undef) {
+print @a;
+pop(@a);
+print "\n";
+}
+

@@ -1,0 +1,128 @@
+/****************************************************************************
+ * Copyright (c) 2012, NuoDB, Inc.
+ * All rights reserved.
+ * 
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions are met:
+ * 
+ *     * Redistributions of source code must retain the above copyright
+ *       notice, this list of conditions and the following disclaimer.
+ *     * Redistributions in binary form must reproduce the above copyright
+ *       notice, this list of conditions and the following disclaimer in the
+ *       documentation and/or other materials provided with the distribution.
+ *     * Neither the name of NuoDB, Inc. nor the names of its contributors may
+ *       be used to endorse or promote products derived from this software
+ *       without specific prior written permission.
+ * 
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND
+ * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+ * WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ * DISCLAIMED. IN NO EVENT SHALL NUODB, INC. BE LIABLE FOR ANY DIRECT, INDIRECT,
+ * INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+ * LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA,
+ * OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+ * LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+ * OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+ * ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ ****************************************************************************/
+
+#include "./node_db_nuodb.h"
+#include "./node_db_nuodb_connection.h"
+#include "./node_db_nuodb_query.h"
+
+v8::Persistent<v8::FunctionTemplate> node_db_nuodb::NuoDB::constructorTemplate;
+
+node_db_nuodb::NuoDB::NuoDB(): node_db::Binding() {
+    this->connection = new node_db_nuodb::Connection();
+    assert(this->connection);
+}
+
+node_db_nuodb::NuoDB::~NuoDB() {
+    if (this->connection != NULL) {
+        delete this->connection;
+    }
+}
+
+void node_db_nuodb::NuoDB::Init(v8::Handle<v8::Object> target) {
+    v8::HandleScope scope;
+
+    v8::Local<v8::FunctionTemplate> t = v8::FunctionTemplate::New(New);
+
+    constructorTemplate = v8::Persistent<v8::FunctionTemplate>::New(t);
+    constructorTemplate->InstanceTemplate()->SetInternalFieldCount(1);
+
+    node_db::Binding::Init(target, constructorTemplate);
+
+    target->Set(v8::String::NewSymbol("NuoDB"), constructorTemplate->GetFunction());
+}
+
+v8::Handle<v8::Value> node_db_nuodb::NuoDB::New(const v8::Arguments& args) {
+    v8::HandleScope scope;
+
+    node_db_nuodb::NuoDB* binding = new node_db_nuodb::NuoDB();
+    if (binding == NULL) {
+        THROW_EXCEPTION("Can't create environment object")
+    }
+
+    if (args.Length() > 0) {
+        ARG_CHECK_OBJECT(0, options);
+
+        v8::Handle<v8::Value> set = binding->set(args[0]->ToObject());
+        if (!set.IsEmpty()) {
+            return scope.Close(set);
+        }
+    }
+
+    binding->Wrap(args.This());
+
+    return scope.Close(args.This());
+}
+
+v8::Handle<v8::Value> node_db_nuodb::NuoDB::set(const v8::Local<v8::Object> options) {
+    ARG_CHECK_OBJECT_ATTR_OPTIONAL_STRING(options, hostname);
+    ARG_CHECK_OBJECT_ATTR_OPTIONAL_STRING(options, schema);
+    ARG_CHECK_OBJECT_ATTR_OPTIONAL_STRING(options, user);
+    ARG_CHECK_OBJECT_ATTR_OPTIONAL_STRING(options, password);
+    ARG_CHECK_OBJECT_ATTR_OPTIONAL_STRING(options, database);
+    ARG_CHECK_OBJECT_ATTR_OPTIONAL_UINT32(options, port);
+
+    node_db_nuodb::Connection* connection = static_cast<node_db_nuodb::Connection*>(this->connection);
+
+    v8::String::Utf8Value hostname(options->Get(hostname_key)->ToString());
+    v8::String::Utf8Value user(options->Get(user_key)->ToString());
+    v8::String::Utf8Value password(options->Get(password_key)->ToString());
+    v8::String::Utf8Value database(options->Get(database_key)->ToString());
+    v8::String::Utf8Value schema(options->Get(schema_key)->ToString());
+
+    if (options->Has(hostname_key)) {
+        connection->setHostname(*hostname);
+    }
+
+    if (options->Has(user_key)) {
+        connection->setUser(*user);
+    }
+
+    if (options->Has(password_key)) {
+        connection->setPassword(*password);
+    }
+
+    if (options->Has(database_key)) {
+        connection->setDatabase(*database);
+    }
+
+    if (options->Has(schema_key)) {
+        connection->setSchema(*schema);
+    }
+
+    if (options->Has(port_key)) {
+        connection->setPort(options->Get(port_key)->ToInt32()->Value());
+    }
+
+    return v8::Handle<v8::Value>();
+}
+
+v8::Persistent<v8::Object> node_db_nuodb::NuoDB::createQuery() const {
+    v8::Persistent<v8::Object> query(
+        node_db_nuodb::Query::constructorTemplate->GetFunction()->NewInstance());
+    return query;
+}

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Sign Up</title>
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+</head>
+<body>
+   
+
+        <div id='content' class='row-fluid'>
+            <div class='span12 main thumbnail'>
+                <form class="form-horizontal" action="/user/create" method="POST">
+                    <h2>Sign Up</h2>
+                    <div class="control-group">
+                        <label class="control-label">Login:</label>
+                        <div class="controls">
+                            <input type="text" name="username"/>
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <label class="control-label">Password:</label>
+                        <div class="controls">
+                            <input type="password" name="password"/>
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <label class="control-label">Confirm Password:</label>
+                        <div class="controls">
+                            <input type="password" name="confirm" />
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <label class="control-label">Email:</label>
+                        <div class="controls">
+                            <input type="text" name="email"/>
+                        </div>
+                    </div>
+
+                    <div class="control-group">
+                        <div class="controls">
+                            <button type="submit" class="btn btn-primary button-add-confirm">Sign Up To Penny Partners</button>
+			    <input type="hidden" name="_csrf" value="<% _csrf %>" />
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    
+</body>
+</html>

@@ -1,0 +1,14 @@
+﻿#use 5.010;
+#%dog=('saen bearnard', 'very long', 'german', 35);
+#print %dog;
+#@dogs = %dog;
+#foreach(@dogs)
+#{say;}
+chdir 'asphalt' or die "Cannot open $!";
+foreach $file( glob "*")
+ { $new =$file;
+   $new =~s/-[ARJUN]-//;
+   print $new;
+   if(rename $file => $new )
+     { }
+} 

@@ -1,0 +1,26 @@
+<ion-view view-title="Signup" align-title="left">
+    <ion-content style="background: url(img/login.png) center; background-size: cover;  filter: blur(30px);">
+        <div class="hero no-header flat">
+            <div class="content">
+                <div class="app-icon"></div>
+            </div>
+        </div>
+        <div class="list">
+            <ion-md-input placeholder="Email" ng-model="username" highlight-color="balanced" type="text" ng-hide="test"></ion-md-input>
+	    <ion-md-input placeholder="Mobile No." ng-model="mobile" highlight-color="balanced" type="number" ng-hide="test"></ion-md-input>
+            <ion-md-input placeholder="Password" ng-model="password" highlight-color="energized" type="password" validate ng-hide="test"></ion-md-input>
+	    <ion-md-input placeholder="OTP (Sent on your phone no.)" ng-model="OTP" highlight-color="balanced" type="number" ng-hide="!test" class="own-otp"></ion-md-input>
+        </div>
+        
+	<div class="own-padding-signup">
+            <button ng-click="test = !test" class="button button-full button-assertive ink ion-thumbsup" ng-hide="test"> Next</button>
+        </div>
+	<div class="own-padding-signup">
+            <button ui-sref="app.profile" ng-hide="!test" class="button button-full button-assertive ink ion-paper-airplane"> Signup</button>
+        </div>
+	<div class="bar bar-footer button-clear own-footer-signup">
+  		<div class="title">Privacy Policy</div>
+	</div>
+
+    </ion-content>
+</ion-view>

@@ -1,0 +1,87 @@
+<html>
+<head>
+<title>home frame</title>
+<style>
+#ver-menu{
+	position: absolute;
+	left:-20px;
+ 	top: -8px;
+
+}
+.ca-menu li{
+	postion:absolute;
+	left: 0px;
+	top: 8px;
+	width: 180px;
+	height: 50px;
+	overflow: hidden;
+	display: block;
+	background: #01b5ff;
+	border-radius: 10px;
+//	box-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+	margin-bottom: 1px;
+//	border-left: 10px solid #000;
+	 -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+    transition: width 300ms;
+}
+
+.ca-menu li a{
+    text-align: center;
+    display: block;
+    width: 100%;
+    height: 100%;
+    color: #000000;
+    position:relative;
+	text-decoration: none;
+}
+.ca-menu li:hover{
+    border-color: #0490cb;
+    background: #0490cb;
+    color: #0490cb;
+    text-shadow: 0px 0px 1px #0490cb;
+    font-size: 11px;
+//	transform: scale(1.1);
+	width: 190px;
+	
+}
+.ca-menu li:hover .ca-main .ca-sub{
+    color: #000000;
+    font-size: 17px;
+	
+
+}
+
+
+iframe{
+	position: absolute;
+	top: 8px;
+	left: 210px;
+	 -moz-border-radius: 12px;
+  -webkit-border-radius: 12px; 
+  border-radius: 12px; 
+}
+</style>
+
+</head>
+
+<body>
+<div id="ver-menu">
+<ul class="ca-menu">
+	
+	<li>
+	     <a href="test.html">
+		 <h2 class="ca-sub">Transaction History</h2></a></li>
+	<li>
+	       <a href="#">
+		<h2 class="ca-sub">Budget Plan<h2></a></li>
+	<li>
+		<a href="#">
+		<h2 class="ca-sub">Profile<h2></a></li>
+	
+</ul>
+</div>
+
+<iframe src="test.html" height="470px" width="940px" scrolling="no" frameborder="1" />
+
+</body>
+</html>

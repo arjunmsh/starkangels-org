@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<!-- saved from url=(0058)http://127.0.0.1:8100/?ionicplatform=android#/app/settings -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+    <meta charset="utf-8">
+    <script>
+      // Injected Ionic Go To URL Live Reload Plugin
+      window.LiveReloadPlugin_IonicGoToUrl = (function() {
+        var GOTO_KEY = "__ionic_goto_url__";
+        var HISTORY_GO_KEY = "__ionic_history_go__";
+        var GoToUrlPlugin = function(window, host) {
+          this.window = window;
+          this.host = host;
+        }
+        GoToUrlPlugin.identifier = "__ionic_goto_url__";
+        GoToUrlPlugin.version = "1.0";
+        GoToUrlPlugin.prototype.reload = function(path) {
+          try {
+            if(path) {
+              if(path.indexOf(GOTO_KEY) === 0) {
+                this.window.document.location = path.replace(GOTO_KEY, "");
+                return true;
+              }
+              if(path.indexOf(HISTORY_GO_KEY) === 0) {
+                this.window.document.history.go( parseInt(path.replace(HISTORY_GO_KEY, ""), 10));
+                return true;
+              }
+            }
+          } catch(e) {
+            console.log(e);
+          }
+          return false;
+        };
+        return GoToUrlPlugin;
+      })();
+    </script>
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title>Settings</title>
+    <link href="css" rel="stylesheet" type="text/css">
+    <link href="ionic.css" rel="stylesheet">
+    <link href="ion-md-input.min.css" rel="stylesheet">
+    <link href="ionic.material.min.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+    <script src="ionic.bundle.js"></script><style type="text/css"></style>
+    <script src="ionic.material.min.js"></script>
+    <script src="ion-md-input.min.js"></script>
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+    <script src="ng-cordova.js"></script>
+    <!-- your app's js -->
+    <script src="app.js"></script>
+    <script src="js"></script>
+    <script src="controllers.js"></script>
+<script type="text/javascript" charset="UTF-8" src="common.js"></script><script type="text/javascript" charset="UTF-8" src="util.js"></script><script type="text/javascript" charset="UTF-8" src="stats.js"></script></head>
+<body ng-app="starter" class="grade-a platform-browser platform-android platform-ready">
+    <ion-nav-view class="view-container" nav-view-transition="android" nav-view-direction="none" nav-swipe=""><ion-side-menus enable-menu-with-back-views="true" class="pane view" nav-view="active" style="transform: translate3d(0%, 0px, 0px);">
+    <ion-side-menu-content class="menu-content pane menu-animated" style="transform: translate3d(0px, 0px, 0px);">
+        <ion-nav-bar class="bar-calm nav-bar-container expanded" ng-class="{expanded: isExpanded, &#39;has-header-fab-left&#39;: hasHeaderFabLeft, &#39;has-header-fab-right&#39;: hasHeaderFabRight}" align-title="left" nav-bar-transition="android" nav-bar-direction="none" nav-swipe="" style="display: block;">
+            
+            <ion-nav-buttons side="left" class="hide"></ion-nav-buttons>
+        <div class="nav-bar-block" nav-bar="cached"><ion-header-bar class="bar-calm bar bar-header" align-title="left"><div class="buttons buttons-left header-item" style="opacity: 0;"><span class="left-buttons">
+                <button class="button button-icon button-clear ion-android-more-vertical" menu-toggle="left">
+                </button>
+            </span></div><div class="title title-left header-item" style="left: 68px; opacity: 0;">Balance</div></ion-header-bar></div><div class="nav-bar-block" nav-bar="active"><ion-header-bar class="bar-calm bar bar-header" align-title="left"><span class="">
+                <button class="button button-icon button-clear ion-android-more-vertical" menu-toggle="left">
+                </button>
+            </span><div class="title title-left header-item" style="left: 68px  !important;">Settings</div></ion-header-bar></div></ion-nav-bar>
+        <ion-nav-view name="fabContent" class="view-container" nav-view-transition="android"></ion-nav-view>
+        <ion-nav-view name="menuContent" ng-class="{expanded: isExpanded}" class="view-container" nav-view-transition="android" nav-view-direction="none" nav-swipe=""><ion-view view-title="Settings" align-title="left" class="pane" nav-view="active" style="transform: translate3d(0%, 0px, 0px);">
+    <ion-content class="scroll-content ionic-scroll overflow-scroll  has-header"><div class="scroll">
+        <div class="content has-header">
+            <div class="list animate-fade-slide-in-right">
+                <div class="item item-toggle toggle-small in in done ng-valid done" ng-model="Payments" toggle-class="toggle-calm" style=""><div ng-transclude=""><span>Accept Payments in Primary Account</span></div><label class="toggle toggle-calm disable-user-behavior"><input type="checkbox" ng-model="Payments" class="ng-pristine ng-untouched ng-valid"><div class="track"><div class="handle"></div></div></label></div>
+                <div class="item item-toggle toggle-small in in done ng-valid" ng-model="airplaneMode" toggle-class="toggle-calm" style=""><div ng-transclude=""><span>Airplane Mode</span></div><label class="toggle toggle-calm disable-user-behavior"><input type="checkbox" ng-model="airplaneMode" class="ng-pristine ng-untouched ng-valid"><div class="track"><div class="handle"></div></div></label></div>
+                <div class="item item-toggle toggle-small in in done ng-valid" ng-model="airplaneMode2" toggle-class="toggle-calm" style=""><div ng-transclude=""><span>Airplane Mode</span></div><label class="toggle toggle-calm disable-user-behavior"><input type="checkbox" ng-model="airplaneMode2" class="ng-pristine ng-untouched ng-valid"><div class="track"><div class="handle"></div></div></label></div>
+                <div class="item item-toggle toggle-small in in done ng-valid" ng-model="airplaneMode3" toggle-class="toggle-calm" style=""><div ng-transclude=""><span>Deactivate Mobile No.</span></div><label class="toggle toggle-calm disable-user-behavior"><input type="checkbox" ng-model="airplaneMode3" class="ng-pristine ng-untouched ng-valid"><div class="track"><div class="handle"></div></div></label></div>
+                <div class="item item-toggle toggle-small in in done ng-valid" ng-model="airplaneMode4" toggle-class="toggle-calm" style=""><div ng-transclude=""><span>Deactivate Penny Account</span></div><label class="toggle toggle-calm disable-user-behavior"><input type="checkbox" ng-model="airplaneMode4" class="ng-pristine ng-untouched ng-valid"><div class="track"><div class="handle"></div></div></label></div>
+		<div class="item item-toggle toggle-small in in done ng-valid" ng-model="Payments2" toggle-class="toggle-calm" style=""><div ng-transclude=""><span>Accept Payments in Primary Account</span></div><label class="toggle toggle-calm disable-user-behavior"><input type="checkbox" ng-model="Payments2" class="ng-pristine ng-untouched ng-valid"><div class="track"><div class="handle"></div></div></label></div>
+                <div class="item item-toggle toggle-small in in done ng-valid" ng-model="airplaneMode5" toggle-class="toggle-calm" style=""><div ng-transclude=""><span>Airplane Mode</span></div><label class="toggle toggle-calm disable-user-behavior"><input type="checkbox" ng-model="airplaneMode5" class="ng-pristine ng-untouched ng-valid"><div class="track"><div class="handle"></div></div></label></div>
+                <div class="item item-toggle toggle-small in in done ng-valid" ng-model="airplaneMode6" toggle-class="toggle-calm" style=""><div ng-transclude=""><span>Airplane Mode</span></div><label class="toggle toggle-calm disable-user-behavior"><input type="checkbox" ng-model="airplaneMode6" class="ng-pristine ng-untouched ng-valid"><div class="track"><div class="handle"></div></div></label></div>
+                <div class="item item-toggle toggle-small in in done ng-valid" ng-model="airplaneMode7" toggle-class="toggle-calm" style=""><div ng-transclude=""><span>Deactivate Mobile No.</span></div><label class="toggle toggle-calm disable-user-behavior"><input type="checkbox" ng-model="airplaneMode7" class="ng-pristine ng-untouched ng-valid"><div class="track"><div class="handle"></div></div></label></div>
+                <div class="item item-toggle toggle-small in in done ng-valid" ng-model="airplaneMode8" toggle-class="toggle-calm" style=""><div ng-transclude=""><span>Deactivate Penny Account</span></div><label class="toggle toggle-calm disable-user-behavior"><input type="checkbox" ng-model="airplaneMode8" class="ng-pristine ng-untouched ng-valid"><div class="track"><div class="handle"></div></div></label></div>
+                
+            </div>
+        </div>
+    </div></ion-content>
+</ion-view></ion-nav-view>
+    </ion-side-menu-content>
+    <ion-side-menu side="left" is-enabled="true" width="275" class="menu menu-left" style="width: 275px; z-index: 0;">
+        <ion-header-bar class="dark-bg expanded bar bar-header">
+            <span class="avatar" style="background: url(&#39;img/qr.gif&#39;); background-size: cover;"></span>
+            <h2>Arjun Mishra</h2>
+        </ion-header-bar>
+        <ion-content class="stable-bg has-expanded-header scroll-content ionic-scroll overflow-scroll has-header"><div class="scroll">
+            <ion-list class="disable-user-behavior"><div class="list">
+		<ion-item nav-clear="" menu-close="" ui-sref="app.balance" class="item item-complex" href="#/app/balance"><a class="item-content">
+                    Balance
+                </a></ion-item>
+                <ion-item nav-clear="" menu-close="" ui-sref="app.budget" class="item item-complex" href="#/app/budget"><a class="item-content">
+                    Budget
+                </a></ion-item>
+		<ion-item nav-clear="" menu-close="" ui-sref="app.maps" class="item item-complex" href="#/app/maps"><a class="item-content">
+                    Maps
+                </a></ion-item>
+                <ion-item nav-clear="" menu-close="" ui-sref="app.settings" class="item item-complex" href="#/app/settings"><a class="item-content">
+                    Settings
+                </a></ion-item>
+                <ion-item nav-clear="" menu-close="" ui-sref="app.transfer" class="item item-complex" href="#/app/transfer"><a class="item-content">
+                    Transfer
+                </a></ion-item>
+		<ion-item nav-clear="" menu-close="" ui-sref="app.login" class="item item-complex" href="#/app/login"><a class="item-content">
+                    Sign Out
+                </a></ion-item>                
+            </div></ion-list>
+        </div></ion-content>
+    </ion-side-menu>
+</ion-side-menus></ion-nav-view>
+
+<script>
+ionic && ionic.Platform && ionic.Platform.setPlatform("android");
+</script>
+
+<script>//<![CDATA[
+document.write('<script src="//' + (location.hostname || 'localhost') + ':35729/livereload.js?snipver=1"><\/script>')
+//]]></script><script src="livereload.js"></script>
+
+
+<div class="click-block click-block-hide"></div></body></html>

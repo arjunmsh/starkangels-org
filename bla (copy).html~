@@ -1,0 +1,722 @@
+<html>
+<body>
+<table class="table table-hover" style="height: 130px;" width="800">
+<tbody>
+<tr>
+<th></th>
+<th width="150px">Name</th>
+<th width="260px">Sector</th>
+<th width="100px">Location</th>
+<th>Social Links</th>
+</tr>
+<tr>
+<td>1</td>
+<td>Aditya Dev Sood</td>
+<td>Consumer Internet, Clean Tech, Mobile, Health Care</td>
+<td>New Delhi</td>
+<td><a href="https://twitter.com/adityadevsood" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/adityadevsood', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/adityadevsood" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/adityadevsood', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/adityadevsood" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/adityadevsood', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Raghu Vohra</td>
+<td>Consumer Internet, Clean Tech, Mobile, Health Care</td>
+<td>Bangalore/Boston/LA</td>
+<td><a href="https://twitter.com/blackstonevg" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/blackstonevg', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/raghuvohra" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/raghuvohra', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/raghu-vohra" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/raghu-vohra', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Sunil Kalra</td>
+<td>Consumer Internet, Mobile</td>
+<td>New Delhi</td>
+<td><a href="https://twitter.com/SunilKalra4" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/SunilKalra4', '');"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/sunil-kalra-a129a621" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/sunil-kalra-a129a621', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/sunil-kalra" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/sunil-kalra', '');"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Sharad Sharma</td>
+<td>Consumer Internet</td>
+<td>New Delhi</td>
+<td><a href="http://twitter.com/sharads" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://twitter.com/sharads', '');"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/sharadsharma" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/sharadsharma', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/sharad-sharma" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/sharad-sharma', '');"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Rajan Anandan</td>
+<td>Consumer Internet, Social Impact</td>
+<td>Bangalore</td>
+<td><a href="https://twitter.com/RajanAnandan" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/RajanAnandan', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/rajan-anandan-2481b814" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/rajan-anandan-2481b814', '');"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/rajan-anandan" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/rajan-anandan', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Ganesh Krishnan</td>
+<td>Consumer Internet, Education</td>
+<td>Bangalore</td>
+<td><a href="http://www.twitter.com/ganeshk03/" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.twitter.com/ganeshk03/', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="http://www.linkedin.com/in/ganeshk" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.linkedin.com/in/ganeshk', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/krishnan-ganesh" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/krishnan-ganesh', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Meena Ganesh</td>
+<td>Consumer Internet, Healthcare</td>
+<td>Bangalore</td>
+<td><a href="https://twitter.com/meenaganesh" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/meenaganesh', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/meena-ganesh-9460795" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/meena-ganesh-9460795', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/meena-ganesh" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/meena-ganesh', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>8</td>
+<td>Ritesh Malik</td>
+<td>Consumer Internet, Healthcare</td>
+<td>New Delhi</td>
+<td><a href="https://twitter.com/ritesh_alive" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/ritesh_alive', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/dr-ritesh-malik-877a87a" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/dr-ritesh-malik-877a87a', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/riteshmalik40" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/riteshmalik40', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>9</td>
+<td>Nikunj Jain</td>
+<td>Consumer Internet</td>
+<td>New Delhi</td>
+<td><a href="https://twitter.com/nikunjjain8" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/nikunjjain8', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/nikunjjain1" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/nikunjjain1', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/nikunj-jain" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/nikunj-jain', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>10</td>
+<td>Anupam Mittal</td>
+<td>Consumer Internet, Clean Technology, Mobile</td>
+<td>Mumbai</td>
+<td><a href="https://twitter.com/AnupamMittal" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/AnupamMittal', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/anupam-mittal-4b3b0114" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/anupam-mittal-4b3b0114', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/anupam-mittal" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/anupam-mittal', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>11</td>
+<td>Kunal Bahl</td>
+<td>Consumer Internet, E-commerce</td>
+<td>New Delhi</td>
+<td><a href="https://twitter.com/1kunalbahl" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/1kunalbahl', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/kunalbahl" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/kunalbahl', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/kunal-bahl" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/kunal-bahl', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>12</td>
+<td>Sachin Bansal</td>
+<td>Consumer Internet, Technology</td>
+<td>Bangalore</td>
+<td><a href="https://twitter.com/_sachinbansal" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/_sachinbansal', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/sachinbansal" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/sachinbansal', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/sachinb" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/sachinb', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>13</td>
+<td>Naveen Tewari</td>
+<td>Consumer Internet, Mobile</td>
+<td>Bangalore</td>
+<td><a href="https://twitter.com/naveentewari" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/naveentewari', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/naveentewari" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/naveentewari', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/naveen-tewari" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/naveen-tewari', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>14</td>
+<td>Ravi Gururaj</td>
+<td>Consumer Internet, Technology</td>
+<td>Bangalore</td>
+<td><a href="https://twitter.com/ravigururaj" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/ravigururaj', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/rgururaj" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/rgururaj', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/ravi-gururaj" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/ravi-gururaj', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>15</td>
+<td>Vijay Shekhar Sharma</td>
+<td>Consumer Internet</td>
+<td>New Delhi</td>
+<td><a href="https://twitter.com/vijayshekhar" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/vijayshekhar', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/vijayshekhar" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/vijayshekhar', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/vijayshekhar" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/vijayshekhar', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>16</td>
+<td>Samir Bangara</td>
+<td>Consumer Internet, Social Games &amp; Development Platform</td>
+<td>Mumbai</td>
+<td><a href="https://twitter.com/samirbangara" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/samirbangara', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/samirbangara" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/samirbangara', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/samir-bangara" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/samir-bangara', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>17</td>
+<td>Abhishek Rungta</td>
+<td>Consumer Internet, Digital Media</td>
+<td>Kolkata</td>
+<td><a href="https://twitter.com/abhishekrungta" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/abhishekrungta', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/abhishekrungta" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/abhishekrungta', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/abhishekrungta" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/abhishekrungta', '');"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>18</td>
+<td>Pallav Nadhani</td>
+<td>Consumer Internet, E-Commerce</td>
+<td>Bangalore</td>
+<td><a href="https://twitter.com/pallavn" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/pallavn', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="http://www.linkedin.com/in/pallavn" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.linkedin.com/in/pallavn', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/pallav-nadhani" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/pallav-nadhani', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>19</td>
+<td>Aloke Bajpai</td>
+<td>Consumer Internet, E-Commerce, Mobile</td>
+<td>Gurgaon</td>
+<td><a href="https://twitter.com/alokebajpai" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/alokebajpai', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/alokebajpai" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/alokebajpai', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/alokebajpai" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/alokebajpai', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>20</td>
+<td>Zishaan Hayath</td>
+<td>E-Commerce, Mobile, Education, Real Estate</td>
+<td>Mumbai</td>
+<td><a href="https://twitter.com/Zishaan" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/Zishaan', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/zishaan" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/zishaan', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/zishaan" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/zishaan', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>21</td>
+<td>Manish Singhal</td>
+<td>Consumer Internet, Education</td>
+<td>Bangalore</td>
+<td><a href="https://twitter.com/manish_saarthi" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/manish_saarthi', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/smanishsinghal" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/smanishsinghal', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/manish-singhal" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/manish-singhal', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>22</td>
+<td>Sanjay Mehta</td>
+<td>Consumer Internet, Healthcare, Clean Technology</td>
+<td>Mumbai</td>
+<td><a href="https://twitter.com/mehtasanjay" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/mehtasanjay', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/ceoinvestor" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/ceoinvestor', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/sanjay-mehta" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/sanjay-mehta', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>23</td>
+<td>Indus Khaitan</td>
+<td>Consumer Internet, Mobile, E-Commerce</td>
+<td>Bangalore</td>
+<td><a href="http://www.twitter.com/1ndus" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.twitter.com/1ndus', '');"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/khaitan" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/khaitan', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/1ndus" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/1ndus', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>24</td>
+<td>Anirudh Dhamani</td>
+<td>Consumer Internet, Clean Technology</td>
+<td>Mumbai</td>
+<td><a href="https://twitter.com/showmedamani" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/showmedamani', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/anirudhdamani" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/anirudhdamani', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/anirudh-a-damani" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/anirudh-a-damani', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>25</td>
+<td>Vikas Taneja</td>
+<td>Clean Tech, IT, Social Media</td>
+<td>Mumbai/Delhi</td>
+<td><a href="https://twitter.com/@v_taneja" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/@v_taneja', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/vikas-taneja-014475" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/vikas-taneja-014475', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/vikas-taneja" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/vikas-taneja', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>26</td>
+<td>Ajeet Khurana</td>
+<td>Consumer Internet, E-Commerce, Education</td>
+<td>Mumbai</td>
+<td><a href="https://twitter.com/AjeetK" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/AjeetK', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/ajeetkhurana" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/ajeetkhurana', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/ajeetk" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/ajeetk', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>27</td>
+<td>Anand Ladsariya</td>
+<td>Location based Services, Customer Support Tool</td>
+<td>Mumbai</td>
+<td><a href="https://twitter.com/Ladsariya" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/Ladsariya', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/anand-ladsariya-02667113" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/anand-ladsariya-02667113', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/anand-ladsariya" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/anand-ladsariya', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>28</td>
+<td>Utsav Somani</td>
+<td>Consumer Internet, Robotics, FMCG, Edu-Tech</td>
+<td>New Delhi</td>
+<td><a href="https://twitter.com/somani_utsav" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/somani_utsav', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/utsavsomani" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/utsavsomani', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/utsav-somani" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/utsav-somani', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>29</td>
+<td>Steven Sule</td>
+<td>Consumer Internet, Clean Technology</td>
+<td>&nbsp;Mumbai</td>
+<td><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32">&nbsp;<a href="https://www.linkedin.com/in/stevensule" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/stevensule', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/steven-sule" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/steven-sule', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>30</td>
+<td>Arun Venkatachalam</td>
+<td>Consumer Internet, Healthcare</td>
+<td>&nbsp;Chennai/London</td>
+<td><a href="https://twitter.com/arunvenk" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/arunvenk', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/arunvenk" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/arunvenk', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/arun-venkatachalam" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/arun-venkatachalam', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>31</td>
+<td>Sandeep Goenka</td>
+<td>Consumer Internet, Big Data, SaaS</td>
+<td>&nbsp;Ahmedabad</td>
+<td><a href="https://twitter.com/GoenkaSandeep" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/GoenkaSandeep', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/goenkas" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/goenkas', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/sandeep-goenka" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/sandeep-goenka', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>32</td>
+<td>Subhinder Khurana</td>
+<td>Consumer Internet</td>
+<td>&nbsp;Gurgaon</td>
+<td><a href="https://twitter.com/SubinderKhurana" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/SubinderKhurana', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/subinder" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/subinder', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/subinder-khurana" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/subinder-khurana', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>33</td>
+<td>Ajay Lavakare</td>
+<td>Big Data Analytics</td>
+<td>&nbsp;New Delhi</td>
+<td><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32">&nbsp;<a href="https://www.linkedin.com/in/ajaylavakare" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/ajaylavakare', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/ajay-lavakare" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/ajay-lavakare', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>34</td>
+<td>Bhanu Chopra</td>
+<td>Big Data Analytics, Travel Tech, Cloud</td>
+<td>&nbsp;New Delhi</td>
+<td><a href="https://twitter.com/bhanuchopra" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/bhanuchopra', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/bchopra" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/bchopra', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/rategain-3" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/rategain-3', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>35</td>
+<td>Girish Mathrubootham</td>
+<td>Consumer Internet, Enterprise Software, SaaS</td>
+<td>&nbsp;Chennai</td>
+<td><a href="https://twitter.com/mrgirish" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/mrgirish', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/girish1" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/girish1', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/mrgirish" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/mrgirish', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>36</td>
+<td>Amit Somani</td>
+<td>Consumer Internet, Mobile</td>
+<td>&nbsp;Bangalore</td>
+<td><a href="https://twitter.com/amitsomani" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/amitsomani', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/thesomani" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/thesomani', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/amitsomani" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/amitsomani', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>37</td>
+<td>Niraj Singh</td>
+<td>Consumer Internet</td>
+<td>&nbsp;New Delhi</td>
+<td><a href="https://twitter.com/niraj001s" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/niraj001s', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/niraj-singh-67159715" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/niraj-singh-67159715', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/niraj-singh-1" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/niraj-singh-1', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>38</td>
+<td>Vivek Bihani</td>
+<td>Mobile</td>
+<td>&nbsp;New Delhi</td>
+<td><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32">&nbsp;<a href="https://in.linkedin.com/in/vivek-bihani-3033533" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/vivek-bihani-3033533', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>39</td>
+<td>Ankur Warikoo</td>
+<td>Internet &amp; Technology</td>
+<td>&nbsp;New Delhi</td>
+<td><a href="https://twitter.com/warikoo" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/warikoo', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/warikoo" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/warikoo', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/ankur-warikoo" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/ankur-warikoo', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>40</td>
+<td>Prashant Malik</td>
+<td>Consumer Internet</td>
+<td>&nbsp;New Delhi</td>
+<td><a href="https://twitter.com/pmalik" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/pmalik', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/prmalik" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/prmalik', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/prashant-malik" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/prashant-malik', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>41</td>
+<td>Rakesh Agarwal</td>
+<td>Consumer Internet, Technology</td>
+<td>&nbsp;New Delhi / Houston, TX</td>
+<td><a href="https://twitter.com/rakeshagrawal" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/rakeshagrawal', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/raaaaakesh" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/raaaaakesh', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/rakeshagrawal" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/rakeshagrawal', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>42</td>
+<td>Sumit Gupta</td>
+<td>Internet, Mobile, SaaS</td>
+<td>&nbsp;San Francisco</td>
+<td><a href="https://twitter.com/sugupta" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/sugupta', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/guptasumit" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/guptasumit', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/sumit-gupta" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/sumit-gupta', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>43</td>
+<td>Nitin Gupta</td>
+<td>Consumer Internet</td>
+<td>&nbsp;Mumbai /&nbsp;San Francisco</td>
+<td><a href="https://twitter.com/xnitingupta" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/xnitingupta', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/xnitingupta" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/xnitingupta', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/xnitingupta" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/xnitingupta', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>44</td>
+<td>Amit Gupta</td>
+<td>Consumer Internet</td>
+<td>&nbsp;Bangalore / San Francisco</td>
+<td><a href="https://twitter.com/amitgupta007" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/amitgupta007', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/amitgupta007" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/amitgupta007', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/amit-gupta" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/amit-gupta', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>45</td>
+<td>Ramanan Raghavendran</td>
+<td>Consumer Internet, Edu Tech</td>
+<td>&nbsp;San Francisco / Singapore</td>
+<td><a href="https://twitter.com/RRword" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/RRword', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/ramananraghavendran" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/ramananraghavendran', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/ramanan-raghavendran" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/ramanan-raghavendran', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>46</td>
+<td>Rajesh Sawhney</td>
+<td>Consumer Internet, Mobile</td>
+<td>Gurgaon</td>
+<td><a href="https://twitter.com/rajeshsawhney" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/rajeshsawhney', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/rajeshgsf" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/rajeshgsf', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/rajeshsawhney" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/rajeshsawhney', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>47</td>
+<td>Indus Khaitan</td>
+<td>Consumer Internet, Healthcare, Big Data</td>
+<td>&nbsp;Bangalore / San Francisco</td>
+<td><a href="https://twitter.com/1ndus" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/1ndus', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/khaitan" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/khaitan', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/1ndus" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/1ndus', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>48</td>
+<td>Sandeep Murthy</td>
+<td>Consumer Internet</td>
+<td>&nbsp;Mumbai</td>
+<td><a href="https://twitter.com/sandeepm1" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/sandeepm1', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/murthysandeep" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/murthysandeep', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/sandeep-murthy" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/sandeep-murthy', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>49</td>
+<td>Vinod Dham</td>
+<td>Consumer Internet</td>
+<td>&nbsp;Bangalore / Santa Clara</td>
+<td><a href="https://twitter.com/vinoddham" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/vinoddham', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/vinod-dham-b07a7935" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/vinod-dham-b07a7935', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/vinod-dham" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/vinod-dham', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>50</td>
+<td>Krishna Mehra</td>
+<td>Consumer Internet, Mobile</td>
+<td>&nbsp;San Francisco</td>
+<td><a href="https://twitter.com/kpowerinfinity" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/kpowerinfinity', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/kpowerinfinity" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/kpowerinfinity', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/kpowerinfinity" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/kpowerinfinity', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>51</td>
+<td>Sanjay Parthasarathy</td>
+<td>Consumer Internet</td>
+<td>&nbsp;Chennai / Seattle</td>
+<td><a href="https://twitter.com/SanjayPat" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/SanjayPat', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/sanjayparthasarathy" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/sanjayparthasarathy', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/sanjay-parthasarathy" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/sanjay-parthasarathy', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>52</td>
+<td>Mehul Mishra</td>
+<td>Consumer Internet</td>
+<td>&nbsp;Mumbai</td>
+<td><a href="https://twitter.com/mehulmishra6" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/mehulmishra6', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32">&nbsp;<a href="https://angel.co/newmehul" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/newmehul', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>53</td>
+<td>Samir Sood</td>
+<td>Consumer Internet, Mobile</td>
+<td>&nbsp;New Delhi</td>
+<td><a href="https://twitter.com/samirdel" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/samirdel', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="http://www.linkedin.com/profile/view?id=41637&amp;trk=tab_pro" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.linkedin.com/profile/view?id=41637&amp;trk=tab_pro', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/samir-sood" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/samir-sood', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>54</td>
+<td>Ananda Kallugadde</td>
+<td>Consumer Internet</td>
+<td>&nbsp;Bangalore</td>
+<td><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32">&nbsp;<a href="http://www.linkedin.com/pub/ananda-kallugadde/1/ab2/306" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.linkedin.com/pub/ananda-kallugadde/1/ab2/306', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/ananda-kallugadde" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/ananda-kallugadde', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>55</td>
+<td>Alok Mittal</td>
+<td>Consumer Internet</td>
+<td>&nbsp;Gurgaon</td>
+<td><a href="https://twitter.com/alokmittal001" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/alokmittal001', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/alok-mittal-590a" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/alok-mittal-590a', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/alok-mittal" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/alok-mittal', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>56</td>
+<td>Krishna Jha</td>
+<td>Consumer Internet</td>
+<td>&nbsp;Bangalore</td>
+<td><a href="https://twitter.com/kjha" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/kjha', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/krishnajha" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/krishnajha', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/krishna-jha" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/krishna-jha', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>57</td>
+<td>Ush Patel</td>
+<td>Consumer Internet</td>
+<td>&nbsp;San Francisco</td>
+<td><a href="https://twitter.com/brightstartapps" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/brightstartapps', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/ushpatel" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/ushpatel', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/brightstartapps" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/brightstartapps', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>58</td>
+<td>Surojit Chaterjee</td>
+<td>Consumer Internet,</td>
+<td>&nbsp;Bangalore</td>
+<td><a href="https://twitter.com/surojit" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/surojit', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/surojitchatterjee" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/surojitchatterjee', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/surojit-chatterjee" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/surojit-chatterjee', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>59</td>
+<td>Rajnish Kumar</td>
+<td>Consumer Internet</td>
+<td>&nbsp;Gurgaon</td>
+<td><a href="https://twitter.com/rajnishkumar" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/rajnishkumar', '');"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/rajnishkumar" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/rajnishkumar', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/rajnishk" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/rajnishk', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>60</td>
+<td>Deependra Bhartari</td>
+<td>Consumer Internet</td>
+<td>&nbsp;India</td>
+<td><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32">&nbsp;<a href="https://www.linkedin.com/in/deependra-bhartari-6250951" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/deependra-bhartari-6250951', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/deependra-bhartari" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/deependra-bhartari', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>61</td>
+<td>Raj Kulkarni</td>
+<td>Consumer Internet, Mobile</td>
+<td>&nbsp;Pune</td>
+<td><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32">&nbsp;<a href="https://www.linkedin.com/in/rajkulkarniatseedfire" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/rajkulkarniatseedfire', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/raj-kulkarni" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/raj-kulkarni', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>62</td>
+<td>Shalin Shah</td>
+<td>Consumer Internet</td>
+<td>&nbsp;Mumbai / New York</td>
+<td><a href="https://twitter.com/shalinsshah" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/shalinsshah', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/shalinsshah" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/shalinsshah', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/shalins" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/shalins', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>63</td>
+<td>Sachin Dev Duggal</td>
+<td>Consumer Internet</td>
+<td>&nbsp;New Delhi / San Francisco</td>
+<td><a href="https://twitter.com/sachinduggal" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/sachinduggal', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/sachin-dev-duggal-255406" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/sachin-dev-duggal-255406', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/sachinduggal" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/sachinduggal', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>64</td>
+<td>Sid Rao</td>
+<td>Consumer Internet</td>
+<td>&nbsp;Bangalore</td>
+<td><a href="https://twitter.com/Altosdevelopers" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/Altosdevelopers', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/sidrao" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/sidrao', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/sid-rao" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/sid-rao', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>65</td>
+<td>Praveen Gupta</td>
+<td>Consumer Internet</td>
+<td>&nbsp;Bangalore</td>
+<td><a href="https://twitter.com/peegee1971" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/peegee1971', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/peegee" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/peegee', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/praveen-gupta" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/praveen-gupta', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>66</td>
+<td>Badal Malick</td>
+<td>Consumer Internet</td>
+<td>&nbsp;New Delhi</td>
+<td><a href="https://twitter.com/BadalMalick" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/BadalMalick', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/badalmalick" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/badalmalick', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/badal-malick" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/badal-malick', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>67</td>
+<td>Sanjay Kamlani</td>
+<td>Consumer Internet</td>
+<td>&nbsp;Miami</td>
+<td><a href="https://twitter.com/sanjaykamlani" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/sanjaykamlani', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/sanjaykamlani" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/sanjaykamlani', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/sanjay-kamlani" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/sanjay-kamlani', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>68</td>
+<td>Vikas Banga</td>
+<td>Mobile</td>
+<td>Gurgaon</td>
+<td><a href="https://twitter.com/vikasbanga" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/vikasbanga', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/vikasbanga" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/vikasbanga', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>69</td>
+<td>Ravi Trivedi</td>
+<td>Consumer Internet</td>
+<td>Bangalore</td>
+<td><a href="https://twitter.com/trivediravi" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/trivediravi', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/trivediravi" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/trivediravi', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/trivediravi" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/trivediravi', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>70</td>
+<td>Akshay Navle</td>
+<td>Consumer Internet, E-Commerce</td>
+<td>New York</td>
+<td><a href="https://twitter.com/AkshayNavle" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/AkshayNavle', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/akshaynavle" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/akshaynavle', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/akshay-navle" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/akshay-navle', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>71</td>
+<td>Amit Grover</td>
+<td>Mobile, E-Commerce</td>
+<td>New Delhi</td>
+<td><a href="https://twitter.com/amitgrover" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/amitgrover', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/amit-grover-73b72b" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/amit-grover-73b72b', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/amitgrover" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/amitgrover', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>72</td>
+<td>Shriraj Gaglani</td>
+<td>Consumer Internet</td>
+<td>San Francisco</td>
+<td><a href="https://twitter.com/sgaglani" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/sgaglani', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/shriraj-gaglani-83a4a" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/shriraj-gaglani-83a4a', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/shriraj-gaglani" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/shriraj-gaglani', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>73</td>
+<td>Roshan Abbas</td>
+<td>Mobile, Education</td>
+<td>Mumbai</td>
+<td><a href="https://twitter.com/roshanabbas" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/roshanabbas', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/roshan-abbas-6188b933" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/roshan-abbas-6188b933', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/roshanabbas" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/roshanabbas', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>74</td>
+<td>Aakrit Vaish</td>
+<td>Mobile, Consumer Internet</td>
+<td>Mumbai / San Francisco</td>
+<td><a href="https://twitter.com/aakuvaish" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/aakuvaish', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/aakrit" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/aakrit', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/aakrit" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/aakrit', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>75</td>
+<td>Saurav Jindal</td>
+<td>Clean Tech, Mobile</td>
+<td>Gurgaon</td>
+<td><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32">&nbsp;<a href="https://www.linkedin.com/in/saurav-jindal-bb953b5" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/saurav-jindal-bb953b5', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/saurav-jindal" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/saurav-jindal', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>76</td>
+<td>Sameer Parwani</td>
+<td>E-commerce, Big Data</td>
+<td>Mumbai</td>
+<td><a href="https://twitter.com/sparwani" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/sparwani', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/sameerparwani" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/sameerparwani', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/sameer-parwani" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/sameer-parwani', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>77</td>
+<td>Kevin Kumana</td>
+<td>Mobile, Consumer Internet, Big Data</td>
+<td>Mumbai</td>
+<td><a href="https://twitter.com/kevinkumana" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/kevinkumana', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/kevinkumana" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/kevinkumana', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/kevin-kumana" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/kevin-kumana', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>78</td>
+<td>Abhishek Shah</td>
+<td>Consumer Internet, Mobile, Health Care</td>
+<td>Mumbai</td>
+<td><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32">&nbsp;<a href="https://in.linkedin.com/in/abhinshah" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/abhinshah', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/abhishek-shah-1" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/abhishek-shah-1', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>79</td>
+<td>Sachin Garg</td>
+<td>E-Commerce, Analytics</td>
+<td>New Delhi</td>
+<td><a href="https://twitter.com/sachin_garg" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/sachin_garg', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="http://www.linkedin.com/in/sachingarg" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'http://www.linkedin.com/in/sachingarg', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/sachin-garg" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/sachin-garg', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>80</td>
+<td>Sukanta Ganguly</td>
+<td>IT, Mobile</td>
+<td>San Jose / India</td>
+<td><a href="https://twitter.com/sukantag" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/sukantag', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/sukantag" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/sukantag', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/sukantag" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/sukantag', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>81</td>
+<td>Dinesh Agarwal</td>
+<td>Clean Tech, Consumer Internet, Mobile</td>
+<td>New Delhi</td>
+<td><a href="https://twitter.com/DineshAgarwal" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/DineshAgarwal', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/indiamart" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/indiamart', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/dineshagarwal" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/dineshagarwal', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>82</td>
+<td>Arvind Jha</td>
+<td>Mobile, Consumer Internet, B2B</td>
+<td>Gurgaon</td>
+<td><a href="https://twitter.com/jalajboy" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/jalajboy', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/arvind-jha-6a3512" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/arvind-jha-6a3512', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/arvind-jha" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/arvind-jha', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>83</td>
+<td>K Srikrishna</td>
+<td>Mobile, Consumer Internet</td>
+<td>Bangalore</td>
+<td><a href="https://twitter.com/ksrikrishna" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/ksrikrishna', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/ksrikrishna" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/ksrikrishna', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/k-srikrishna" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/k-srikrishna', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>84</td>
+<td>Munish Jauhar</td>
+<td>Mobile, E-Commerce, Consumer Internet</td>
+<td>Chandigarh</td>
+<td><a href="https://twitter.com/graycelltech" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/graycelltech', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/mjauhar" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/mjauhar', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/munish-jauhar" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/munish-jauhar', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>85</td>
+<td>Harit Mehta</td>
+<td>Clean Tech, Mobile, Consumer Internet</td>
+<td>Mumbai</td>
+<td><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32">&nbsp;<a href="https://in.linkedin.com/in/haritmehta" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/haritmehta', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/harit-mehta" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/harit-mehta', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>86</td>
+<td>Keshav Baljee</td>
+<td>Consumer Internet, Hospitality, Heath Care</td>
+<td>Bangalore</td>
+<td><a href="https://twitter.com/spreehotels" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/spreehotels', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/keshavbaljee" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/keshavbaljee', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/keshav-baljee" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/keshav-baljee', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>87</td>
+<td>Lomesh Dutta</td>
+<td>Mobile, Big Data, Consumer Internet</td>
+<td>Gurgaon</td>
+<td><a href="https://twitter.com/lomeshdutta" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/lomeshdutta', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/lomesh" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/lomesh', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/lomesh-dutta" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/lomesh-dutta', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>88</td>
+<td>Satya Krishna Ganni</td>
+<td>Mobile, Cloud, E-Commerce</td>
+<td>Hyderabad</td>
+<td><a href="https://twitter.com/gannisk" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/gannisk', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/satyaganni" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/satyaganni', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/satyaganni" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/satyaganni', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>89</td>
+<td>Shrikant Lohokare</td>
+<td>Clean Tech, Mobile, Big Data</td>
+<td>Mumbai / San Francisco</td>
+<td><a href="https://twitter.com/SLohok" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/SLohok', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/shrikantlohokare" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/shrikantlohokare', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/shrikant-lohokare" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/shrikant-lohokare', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>90</td>
+<td>Siddharth Talwar</td>
+<td>Consumer Internet</td>
+<td>New Delhi</td>
+<td><a href="https://twitter.com/sidtalwar" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/sidtalwar', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/sidtalwar" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/sidtalwar', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/siddharth-talwar" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/siddharth-talwar', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>91</td>
+<td>Pranay Gupta</td>
+<td>Mobile, Consumer Internet, Clean Tech</td>
+<td>New Delhi</td>
+<td><a href="https://twitter.com/PranayG" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/PranayG', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/pranayg" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/pranayg', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/pranay-gupta" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/pranay-gupta', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>92</td>
+<td>Ravi Kiran</td>
+<td>Clean Tech, Consumer Internet, Cloud</td>
+<td>Mumbai</td>
+<td><a href="https://twitter.com/ravitwo" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/ravitwo', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/ravitwo" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/ravitwo', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/ravitwo" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/ravitwo', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>93</td>
+<td>Padmaja Ruparel</td>
+<td>Consumer Internet, Mobile, Clean tech</td>
+<td>New Delhi</td>
+<td><a href="https://twitter.com/padmajaian" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/padmajaian', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/padmaja-ruparel-6271776" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/padmaja-ruparel-6271776', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/padmaja-ruparel" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/padmaja-ruparel', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>94</td>
+<td>Vikram Chachra</td>
+<td>Consumer Internet, Mobile</td>
+<td>Mumbai</td>
+<td><a href="https://twitter.com/lemonandice" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/lemonandice', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/vchachra" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/vchachra', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/lemonandice" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/lemonandice', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>95</td>
+<td>Evan Luthra</td>
+<td>Mobile, Consumer Goods, Consumer Internet, IoT</td>
+<td>New Delhi / Los Angeles</td>
+<td><a href="https://twitter.com/evanluthra" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/evanluthra', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/evanluthra" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/evanluthra', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/evanluthra" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/evanluthra', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>96</td>
+<td>Karamveer Singh</td>
+<td>Consumer Internet, Mobile, E-Commerce</td>
+<td>Pune</td>
+<td><a href="https://twitter.com/jimkarter" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/jimkarter', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/karamveersingh" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/karamveersingh', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/jimkarter" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/jimkarter', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>97</td>
+<td>Vikram Upadhyay</td>
+<td>Clean Tech, Mobile, E-Commerce</td>
+<td>Gurgaon</td>
+<td><a href="https://twitter.com/VikramUpadhyaya" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/VikramUpadhyaya', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/vikramupadhyaya" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/vikramupadhyaya', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/vikram-upadhyaya" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/vikram-upadhyaya', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>98</td>
+<td>Rajul Garg</td>
+<td>Health Care, Consumer Internet, Mobile</td>
+<td>New Delhi</td>
+<td><a href="https://twitter.com/rajul_g" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/rajul_g', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://www.linkedin.com/in/rajulgarg" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/rajulgarg', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/rajul-garg" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/rajul-garg', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>99</td>
+<td>Nilesh Trivedi</td>
+<td>Consumer Internet, Mobile, Big Data</td>
+<td>Bangalore / San Francisco</td>
+<td><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32">&nbsp;<a href="https://www.linkedin.com/in/nilesh-trivedi-5939436" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/nilesh-trivedi-5939436', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/nilesh-trivedi" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/nilesh-trivedi', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>100</td>
+<td>Bikram Seth</td>
+<td>Clean Tech, Consumer Internet, Mobile</td>
+<td>New Delhi</td>
+<td><a href="https://twitter.com/bikramseth" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/bikramseth', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://in.linkedin.com/in/bikram-seth-91872a2" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://in.linkedin.com/in/bikram-seth-91872a2', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a>&nbsp;<a href="https://angel.co/bikram-seth" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/bikram-seth', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+<tr>
+<td>101</td>
+<td>Bhupen Shah</td>
+<td>Tech Startups</td>
+<td>San Francisco</td>
+<td><a href="https://twitter.com/sbhupend" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://twitter.com/sbhupend', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/09_twitter-32.png" alt="" width="32" height="32"></a> <a href="https://www.linkedin.com/in/shahbhupen" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://www.linkedin.com/in/shahbhupen', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/06_linkedin-32.png" alt="" width="32" height="32"></a> <a href="https://angel.co/bhupen-shah" rel="nofollow" onclick="__gaTracker('send', 'event', 'outbound-article', 'https://angel.co/bhupen-shah', '');" target="_blank"><img class="alignnone" src="https://cdn3.iconfinder.com/data/icons/ultimate-social/150/47_angel_list-32.png" alt="" width="32" height="32"></a><a href="#"><img alt=""></a></td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<ion-view view-title="Budget Plan">
+    <ion-content ng-class="{expanded:isExpanded}" class="animate-fade-slide-in">
+	<div class="content has-header">	
+	<div class="list card">
+	 <div class="item item-image" ng-model="imgTop">
+	    <img ng-src="./img/{{imgTop}}.jpg">
+	  </div>
+	 <div class="item item-image" ng-hide="imgTop">
+	    <img ng-src="./img/income.jpg">
+	  </div>
+	 <a class="item item-icon-left assertive" href="#">
+	    <i class="icon ion-music-note"></i>
+	    Start Planning with fun
+	  </a>
+	</div>    	
+	<div class="list card">
+	  <span class="item item-divider">
+	    Budget Metrics
+	  </span>
+
+	  <div class="item item-divider">
+	    <button class="button-clear button-full ion-planet item-icon-left" ng-click="imgTop = 'general'">
+	      General
+	    </button>
+	</div>
+	  <div class="item item-divider">
+	    <button class="button-clear button-full ion-key item-icon-left" ng-click="imgTop = 'income'">
+	      Income
+	    </button>
+	</div>
+	  <div class="item item-divider">
+	    <button class="button-clear button-full ion-planet item-icon-left" ng-click="imgTop = 'expenses'">
+	      Expenses
+	    </button>
+	</div>
+	  <div class="item item-divider">
+	    <button class="button-clear button-full ion-beer item-icon-left" ng-click="imgTop = 'comm'">
+	      Commodity Market
+	    </button>
+	</div>
+	  <div class="item item-divider">
+	    <button class="button-clear button-full ion-beer item-icon-left" ng-click="imgTop = 'curr'">
+	      Currency Market
+	    </button>
+	</div>
+	  <div class="item item-divider">
+	    <button class="button-clear button-full ion-plus item-icon-left">
+	      Add Invoice
+	    </button>
+	</div>
+	</div>    
+
+	</div>
+    </ion-content>
+</ion-view>

@@ -1,0 +1,4 @@
+my @required = qw(preserver sunscreen water_bottle jacket);
+my %skipper = map { $_, 1 }
+qw(blue_shirt hat jacket preserver sunscreen);
+print %skipper;

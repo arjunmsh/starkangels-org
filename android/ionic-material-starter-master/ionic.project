@@ -1,0 +1,13 @@
+{
+  "name": "ionic-app-base",
+  "app_id": "",
+  "gulpStartupTasks": [
+    "sass",
+    "bower",
+    "watch"
+  ],
+  "watchPatterns": [
+    "www/**/*",
+    "!www/vendor/**/*"
+  ]
+}

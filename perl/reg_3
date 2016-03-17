@@ -1,0 +1,8 @@
+chomp(my $date = `date`);
+$^I = "\b";
+while (<>) {
+s/^Author:.*/Author: Randall L. Schwartz/;
+s/^Phone:.*\n//;
+s/^Date:.*/Date: $date/;
+print;
+}

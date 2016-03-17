@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<!-- saved from url=(0053)http://127.0.0.1:8100/?ionicplatform=ios#/app/balance -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+    <meta charset="utf-8">
+    <script>
+      // Injected Ionic Go To URL Live Reload Plugin
+      window.LiveReloadPlugin_IonicGoToUrl = (function() {
+        var GOTO_KEY = "__ionic_goto_url__";
+        var HISTORY_GO_KEY = "__ionic_history_go__";
+        var GoToUrlPlugin = function(window, host) {
+          this.window = window;
+          this.host = host;
+        }
+        GoToUrlPlugin.identifier = "__ionic_goto_url__";
+        GoToUrlPlugin.version = "1.0";
+        GoToUrlPlugin.prototype.reload = function(path) {
+          try {
+            if(path) {
+              if(path.indexOf(GOTO_KEY) === 0) {
+                this.window.document.location = path.replace(GOTO_KEY, "");
+                return true;
+              }
+              if(path.indexOf(HISTORY_GO_KEY) === 0) {
+                this.window.document.history.go( parseInt(path.replace(HISTORY_GO_KEY, ""), 10));
+                return true;
+              }
+            }
+          } catch(e) {
+            console.log(e);
+          }
+          return false;
+        };
+        return GoToUrlPlugin;
+      })();
+    </script>
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+    <title>Balance</title>
+    <link href="css" rel="stylesheet" type="text/css">
+    <link href="ionic.css" rel="stylesheet">
+    <link href="ion-md-input.min.css" rel="stylesheet">
+    <link href="ionic.material.min.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+    <script src="ionic.bundle.js"></script><style type="text/css"></style>
+    <script src="ionic.material.min.js"></script>
+    <script src="ion-md-input.min.js"></script>
+    <!-- cordova script (this will be a 404 during development) -->
+    <script src="cordova.js"></script>
+    <script src="ng-cordova.js"></script>
+    <!-- your app's js -->
+    <script src="app.js"></script>
+    <script src="js"></script>
+    <script src="controllers.js"></script>
+<script type="text/javascript" charset="UTF-8" src="common.js"></script><script type="text/javascript" charset="UTF-8" src="util.js"></script><script type="text/javascript" charset="UTF-8" src="stats.js"></script></head>
+<body ng-app="starter" class="grade-a platform-browser platform-ios platform-ready">
+    <ion-nav-view class="view-container" nav-view-transition="ios" nav-view-direction="none" nav-swipe=""><ion-side-menus enable-menu-with-back-views="true" class="pane view" nav-view="active" style="opacity: 1; transform: translate3d(0%, 0px, 0px);">
+    <ion-side-menu-content class="menu-content pane menu-animated" style="transform: translate3d(0px, 0px, 0px);">
+        <ion-nav-bar class="bar-calm nav-bar-container" ng-class="{expanded: isExpanded, &#39;has-header-fab-left&#39;: hasHeaderFabLeft, &#39;has-header-fab-right&#39;: hasHeaderFabRight}" align-title="left" nav-bar-transition="ios" nav-bar-direction="forward" nav-swipe="" style="display: block;">
+            
+            <ion-nav-buttons side="left" class="hide"></ion-nav-buttons>
+        <div class="nav-bar-block" nav-bar="active"><ion-header-bar class="bar-calm bar bar-header" align-title="left"><div class="buttons buttons-left header-item"><span class="left-buttons">
+                <button class="button button-icon button-clear ion-android-more-vertical" menu-toggle="left">
+                </button>
+            </span></div><div class="title title-left header-item" style="transform: translate3d(0px, 0px, 0px); left: 68px;">Balance</div></ion-header-bar></div><div class="nav-bar-block" nav-bar="cached"><ion-header-bar class="bar-calm bar bar-header" align-title="left"><div class="buttons buttons-left header-item" style="opacity: 0;"><span class="left-buttons">
+                <button class="button button-icon button-clear ion-android-more-vertical" menu-toggle="left">
+                </button>
+            </span></div><div class="title title-left header-item" style="transform: translate3d(-166.352px, 0px, 0px); opacity: 0;">Login</div></ion-header-bar></div></ion-nav-bar>
+        <ion-nav-view name="fabContent" class="view-container" nav-view-transition="ios"></ion-nav-view>
+        <ion-nav-view name="menuContent" ng-class="{expanded: isExpanded}" class="view-container" nav-view-transition="ios" nav-view-direction="forward" nav-swipe=""><ion-view view-title="Balance" align-title="left" class="pane" nav-view="active" style="opacity: 1; box-shadow: rgba(0, 0, 0, 0) 0px 0px 10px; transform: translate3d(0%, 0px, 0px);">
+    <ion-content style="background: url(img/login.png) center; background-size: cover;  filter: blur(30px);" class="scroll-content ionic-scroll  has-header"><div class="scroll" style="transform: translate3d(0px, 0px, 0px) scale(1);">
+        <div class="content has-header">
+            <div class="content">
+                <div class="app-icon"></div>
+            </div>
+        </div>
+        <div class="list card own-card calm-bg">
+		  <a class="item item-icon-left">
+		    <i class="icon ion-home"></i>
+		    Gross Balance : <span style="margin-left: 8em; ">$ 3 051 .50 </span>
+		    
+		  </a>
+
+		<a class="item item-icon-left">
+		    <i class="icon ion-home"></i>
+		    Last Transaction : <span style="margin-left: 6em; font-color: green;">+ $ 1 051 .50 </span>
+		    
+		  </a>
+		  
+        </div>
+        
+	
+	<div class="own-padding-transaction">
+            <button ui-sref="app.profile" class="button button-full button-calm ink ion-paper-airplane"> Recent Transactions</button>
+        </div>
+
+    </div><div class="scroll-bar scroll-bar-v"><div class="scroll-bar-indicator scroll-bar-fade-out" style="transform: translate3d(0px, 0px, 0px) scaleY(1); height: 624px;"></div></div></ion-content>
+</ion-view></ion-nav-view>
+    </ion-side-menu-content>
+    <ion-side-menu side="left" is-enabled="true" width="275" class="menu menu-left" style="width: 275px; z-index: 0;">
+        <ion-header-bar class="dark-bg expanded bar bar-header">
+            <span class="avatar" style="background: url(&#39;img/qr.gif&#39;); background-size: cover;"></span>
+            <h2>Arjun Mishra</h2>
+        </ion-header-bar>
+        <ion-content class="stable-bg has-expanded-header scroll-content ionic-scroll has-header"><div class="scroll" style="transform: translate3d(0px, 0px, 0px) scale(1);">
+            <ion-list class="disable-user-behavior"><div class="list">
+		<ion-item nav-clear="" menu-close="" ui-sref="app.balance" class="item item-complex" href="#/app/balance"><a class="item-content">
+                    Balance
+                </a></ion-item>
+                <ion-item nav-clear="" menu-close="" ui-sref="app.budget" class="item item-complex" href="#/app/budget"><a class="item-content">
+                    Budget
+                </a></ion-item>
+		<ion-item nav-clear="" menu-close="" ui-sref="app.maps" class="item item-complex" href="#/app/maps"><a class="item-content">
+                    Maps
+                </a></ion-item>
+                <ion-item nav-clear="" menu-close="" ui-sref="app.settings" class="item item-complex" href="#/app/settings"><a class="item-content">
+                    Settings
+                </a></ion-item>
+                <ion-item nav-clear="" menu-close="" ui-sref="app.transfer" class="item item-complex" href="#/app/transfer"><a class="item-content">
+                    Transfer
+                </a></ion-item>
+		<ion-item nav-clear="" menu-close="" ui-sref="app.login" class="item item-complex" href="#/app/login"><a class="item-content">
+                    Sign Out
+                </a></ion-item>                
+            </div></ion-list>
+        </div><div class="scroll-bar scroll-bar-v"><div class="scroll-bar-indicator scroll-bar-fade-out" style="transform: translate3d(0px, 0px, 0px) scaleY(1); height: 518px;"></div></div></ion-content>
+    </ion-side-menu>
+</ion-side-menus></ion-nav-view>
+
+<script>
+ionic && ionic.Platform && ionic.Platform.setPlatform("ios");
+</script>
+
+<script>//<![CDATA[
+document.write('<script src="//' + (location.hostname || 'localhost') + ':35729/livereload.js?snipver=1"><\/script>')
+//]]></script><script src="livereload.js"></script>
+
+
+<div class="click-block click-block-hide"></div></body></html>

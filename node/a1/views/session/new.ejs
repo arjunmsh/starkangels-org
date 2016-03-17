@@ -1,0 +1,14 @@
+<form action = "/session/create" method = "post" class = "form-signin">
+<h2 class="form-signin-heading">please sign in...</h2>
+<% if(flash && flash.err)
+{ %>
+<ul class="alert alert-success">
+<% object.keys(flash.err).forEach(function(error)%>
+<li><%- JSON.stringify(flash.err[error]) %></li>
+<% }) %>
+</ul>
+<input type="text" class="form-control" place holder="Email address" name="email">
+<input type="password" class="form-control" place holder="password" name="email">
+<input type="submit" class="btn btn-lg btn-primary btn-block" value="Sign-in" />
+<input type="hidden" name="_csrf" value="<%= _csrf %>" />
+</form>

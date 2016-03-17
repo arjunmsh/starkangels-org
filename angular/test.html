@@ -1,0 +1,34 @@
+<html>
+<body ng-app="pennyUser">
+<form ng-controller="pennySignupController as ctrl" method="POST">
+<p>
+		<span>{{ctrl.messag}}</span>
+		*<span style="font-weight:bold;">First Name</span><br>
+		<input ng-model="ctrl.user" type="text" placeholder="Enter first name" name="signup_first_name" class="form-control" required><br>
+		*<span style="font-weight:bold;">Last Name</span><br>
+		<input ng-model="ctrl.userlast" type="text" placeholder="Enter last name" name="signup_last_name" class="form-control" required><br>
+		*<span style="font-weight:bold;">Aadhar/UIDAI No.</span><br>
+		<input ng-model="ctrl.useraadhar" type="text" placeholder="Aadhar/UIDAI Number e.g. 1234 4567 7891" name="signup_aadhar" class="form-control" required><br>
+		*<span style="font-weight:bold;">Income Tax PAN</span><br>
+		<input ng-model="ctrl.userpan" type="text" placeholder="PAN e.g. CPPMG6720F" name="signup_pan" class="form-control" required><br>
+		*<span style="font-weight:bold;">Email</span><br>
+		<input ng-model="ctrl.useremail" type="email" placeholder="example@xyz.com used as username" name="signup_email" class="form-control"><br>
+		*<span style="font-weight:bold;">Password</span><br>
+		<input ng-model="ctrl.userpass" type="password" placeholder="Password" name="signup_password" class="form-control" ng-minlength="6" required><br>
+		*<span style="font-weight:bold;">Re-Enter Password</span><br>
+		<input ng-model="ctrl.userrepass" type="password" placeholder="Re-enter your Password" name="signup_password" class="form-control"><br>     
+	      </p>
+<div class="modal-footer">
+	      <input style="float: left" ng-click="ctrl.addUser()" type="submit" class="btn btn-primary" value="Get Started"> 
+	    </div>
+<script type="text/ng-template" id="test2.html">
+  <p>This is the content of the template</p>
+</script>
+</ng-form>
+</body>
+<script src="angular.1.3.js"></script>
+<script src="pennySignupController.js">
+</script>
+</body>
+</html>
+

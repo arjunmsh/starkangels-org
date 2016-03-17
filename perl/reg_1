@@ -1,0 +1,5 @@
+$_="Fred loves barney me barney";
+if(/(Fred.+?barney)/)   #hence matches with minimum chars possible
+{print $1."\n";}   
+if(/(Fred.+barney)/)
+{print;}  

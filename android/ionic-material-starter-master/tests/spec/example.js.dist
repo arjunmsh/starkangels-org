@@ -1,0 +1,12 @@
+'use strict';
+
+describe('Service|Factory|Controller|Directive: example', function () {
+
+    // load the service's module
+    beforeEach(module('example'));
+
+    var example;
+    beforeEach(inject(function (_example_) {
+        example = _example_;
+    }));
+});

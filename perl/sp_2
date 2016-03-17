@@ -1,0 +1,15 @@
+﻿use 5.010;
+@a = qw. p d f b bet . ;
+
+print splice @a, 1, 2, qw(W) ; 
+#use of splice(array,position of cut,length of cut,replacement words
+
+$"= ' : ';       #list separator default is white space                      
+
+print "\n@a\n";
+print sort reverse @a;
+$"= ' ';
+
+$\='\n';       #input seapartor for an array default is white space
+chomp(@_=<STDIN>);  #accepting list as input
+foreach $a(@_){print "$a";}

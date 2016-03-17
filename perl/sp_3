@@ -1,0 +1,2 @@
+﻿while(<>)          #type .\fortestread at the time of execution like perl sp_3 ./fortestread
+ { print"line is $_ \n"; }

@@ -1,0 +1,24 @@
+<ion-view view-title="Transfer" align-title="left">
+    <ion-content style="background: url(img/login.png) center; background-size: cover;  filter: blur(30px);">
+        <div class="content has-header">
+            <div class="content">
+                <div class="app-icon"></div>
+            </div>
+        </div>
+        <div class="list">
+            <ion-md-input placeholder="Email / Mobile No." highlight-color="balanced" type="text"></ion-md-input>
+            <ion-md-input placeholder="Amount" highlight-color="energized" type="text" validate outline item-left><ion-icon name="help"></ion-icon></ion-md-input>
+        </div>
+        <div class="own-padding-signup">
+            <button ui-sref="#" class="button button-full button-calm ink ion-unlocked" > Transfer	
+	 </button>
+        </div>
+	<div class="own-padding-signup">
+            <button ui-sref="app.signup" class="button button-full button-assertive ink ion-paper-airplane"> Mobile POS Pay</button>
+        </div>
+	<div class="bar bar-footer button-clear own-footer-login" ng-click="scan()">
+  		<div class="title">QR Pay</div>
+	</div>
+
+    </ion-content>
+</ion-view>

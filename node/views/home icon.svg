@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="100%"
+   height="100%"
+   viewBox="0 0 200 200"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg4136"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="home icon.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview4148"
+     showgrid="false"
+     inkscape:zoom="1.19"
+     inkscape:cx="100"
+     inkscape:cy="100"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4136" />
+  <defs
+     id="svgEditorDefs">
+    <polygon
+       id="svgEditorPolygonDefs"
+       stroke="black"
+       fill="khaki"
+       style="vector-effect: non-scaling-stroke; stroke-width: 1px;" />
+  </defs>
+  <rect
+     id="svgEditorBackground"
+     x="0"
+     y="0"
+     width="100"
+     height="100"
+     style="fill: none; stroke: none;" />
+  <ellipse
+     id="e7_circle"
+     cx="100.11404"
+     cy="99.973663"
+     style="fill:#454545;stroke:#00ffff;stroke-width:0px"
+     ry="100.40972"
+     rx="99.312996" />
+  <metadata
+     id="metadata4142">
+Created by potrace 1.10, written by Peter Selinger 2001-2011
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     transform="matrix(0.1,0,0,-0.1,2,194)"
+     id="g4144"
+     style="fill:#000000;stroke:none">
+    <path
+       d="m 871,1470 c -63,-60 -119,-111 -125,-114 -6,-2 -2,-5 88.09552,-117.994 C 1045.7195,944.21997 817,1391 1561.7325,1031.9199 c -623.73293,473.079 -548.1339,487.006 -563.73293,518.079 64.49723,-372.881 43.99993,-28 25.38633,-79.8907 -67.5784,-28.4087 197.177,-222.367 132.614,-55.1093 6,-5 -35.7609,-166.396 165,-204.964 85,-32.0358 -79.6536,-446.187 222,-161.036 37,-35 67,-66 67,-70 3.7666,1.64966 -148.994,198.156 -128.964,26.6648 39.9285,88.3955 -117.898,-63.4972 -41.0358,-55.6648 -5,-8 -556.13999,364.876 -130.527,-153.07202 -395.47994,-254.03003 117.527,-336.92801 106.527,-345.92801 15.4823,7.06592 -56,-11 -311.492,499.47501 l 40.4915,-505.47501 -5,142.00003 c 697.5651,246.95899 -10,147 42.3805,222.67999 -244.87198,553.72301 -287.37998,-52.67987 -307.37998,-69.67987 -12,-10 -15,-39 -15,-155 l 0,-143 41.79102,582.80398 C 596.00012,439.99896 581.00012,440.99896 619.31415,487.13098 573.00012,466.99918 588.83252,421.80698 963.4801,828.52698 566.00012,979 571.00012,968 468.00009,967 1296.29,737.245 1402.6501,533.08801 1368.518,1192.4561 1277.889,1440.2771 426.00003,1019.0001 983.47507,1544.343 540.00009,1128 581.00803,1185.365 566.00009,1178 c 16.06592,-60.3296 623.46901,299.755 29.36542,186.03 l 4.76648,-66.9586 197.52698,-80.0961 c -101.659,177.0251 -72.65918,172.0251 -69.65918,165.0251 7,-21 23,-13 20,11 -3,20 -9,22 -86,25 -45,2 -90,-1 -111.18299,-7.8832 -4.5838,5.1822 -4.70056,-48.7157 -1.81732,-124.117 l 2,-117 2.81201,3.987 C 372.99948,998.00018 358.99948,980.00018 366.99948,965.00018 c 9,-15 23,-18 97,-16 l 84.11682,2 -1.88324,-249 c 3.76648,-260.13199 4.76648,-250 12.40863,-266 26.35779,-14 49.35779,-16 172.35804,-14 l 144,3 3,152 3,153 119,0 118.99997,0 3,-152 3,-153 147,-3 c 181.381,-0.11676 149,0 163.8831,9.23352 15.1167,21.76651 16.4668,-7.37442 16.1167,406.76599 l -2,113 86,-2 c 75,-2 88,1 97,16 8,16 0,27 -49,73.00011 -32,30 -102,96 -155,146 -341,325 -413,391 -428,393 -9.00002,2 -66.00002,-45 -130.00002,-107 z"
+       id="path4146"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff" />
+  </g>
+</svg>

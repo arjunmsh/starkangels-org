@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf8"?>
+<!DOCTYPE html PUBLIC "-//w3c//DTD XHTML 1.0 STRICT//EN" "http://www.w3.org/TR/xhtml/DTD/xhtml-strict-dtd">

@@ -1,0 +1,14 @@
+<ion-view view-title="Settings">
+    <ion-content ng-class="{expanded:isExpanded}">
+        <div class="content has-header">
+            <div class="list animate-fade-slide-in-right">
+                <ion-toggle ng-model="Payments" toggle-class="toggle-calm">Accept Payments in Primary Account</ion-toggle>
+                <ion-toggle ng-model="airplaneMode" toggle-class="toggle-calm">Airplane Mode</ion-toggle>
+                <ion-toggle ng-model="airplaneMode2" toggle-class="toggle-calm">Airplane Mode</ion-toggle>
+                <ion-toggle ng-model="airplaneMode3" toggle-class="toggle-calm">Deactivate Mobile No.</ion-toggle>
+                <ion-toggle ng-model="airplaneMode4" toggle-class="toggle-calm">Deactivate Penny Account</ion-toggle>
+                
+            </div>
+        </div>
+    </ion-content>
+</ion-view>

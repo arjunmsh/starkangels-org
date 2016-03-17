@@ -1,0 +1,119 @@
+<!--<html>
+  <body>
+    <div ng-app="penny">
+      <legend>SignUp</legend>
+      <form id="signup-form-right" name="signup" ng-controller="pennyCtrl as ctrl">
+	<div class="form-group">
+	  <div class="row">
+	    <div class="col-sm-4">
+	      <span>First name</span>
+	      <input class="form-control" type="text" name="fname" ng-model="ctrl.first" ng-minlength="5" required>
+	      <span ng-show="signup.fname.$error.required">
+This is a required field
+</span>
+<span ng-show="signup.fname.$error.minlength">
+Minimum length required is 4
+</span>
+<span ng-show="signup.uname.$invalid">
+This field is invalid
+</span>
+	    </div>
+	    <div class="col-sm-4">
+	      <span>Middle name</span>
+	      <input class="form-control" type="text" name="mname" ng-model="sign.middle" ng-maxlength="50" required>
+	    </div>
+	    <div class="col-sm-4">
+	      <span>Last name</span>
+	      <input class="form-control" type="text" name="fname" ng-model="sign.last" ng-maxlength="50" required>
+	    </div>
+	  </div>
+	  <div class="row">
+	    <div class="col-sm-6">
+	      <span>E-mail</span>
+	      <input class="form-control" type="email" placeholder="example@xyz.com" ng-model="email">
+	    </div>
+	    <div class="col-sm-6">
+	      <span>Aadhar/Uadai No.</span>
+	      <input class="form-control" type="number" placeholder="12-digit aadhar number">
+	    </div>
+	    <div class="row">
+	      <div class="col-sm-6">
+		<span>Income TAX PAN number</span>
+		<input class="form-control" type="number" placeholder="12-digit aadhar number">
+	      </div>
+	      <div class="col-sm-6">
+		<span>DOB</span>
+		<input class="form-control" type="date">
+	      </div>
+	    </div>
+	  </div>
+	  <div class="row">
+	    <div class="col-sm-6">
+	      <span>Password</span>
+	      <input class="form-control" type="password" placeholder="Password" name="signup_password" ng-model="password">
+	    </div>
+	    <div class="col-sm-6">
+	      <span>Confirm Password</span>
+	      <input class="form-control" type="password" placeholder="Re-enter your Password" name="confirm_password" ng-model="cpassword">
+	    </div>
+	  </div>
+	  <button class="btn btn-info pull-right">Get Started</button>
+	</div>
+      </form>
+    </div>
+</div>	
+<script src="angular.1.3.js"></script>
+<script src="pennySignupController.js">
+</script>
+
+</body>
+</html>
+-->
+<html>
+<head><title>Notes App</title></head>
+<body>
+<div ng-app="notesApp">
+
+<div ng-controller="MainCtrl as ctrl">
+<form ng-submit="ctrl.submit()" name="myForm">
+<input type="text"
+name="uname"
+ng-model="ctrl.user.username"
+required
+ng-minlength="4">
+<span ng-show="myForm.uname.$error.required">
+This is a required field
+</span>
+<span ng-show="myForm.uname.$error.minlength">
+Minimum length required is 4
+</span>
+<span ng-show="myForm.uname.$invalid">
+This field is invalid
+</span>
+<input type="password"
+name="pwd"
+ng-model="ctrl.user.password"
+required>
+<span ng-show="myForm.pwd.$error.required">
+This is a required field
+</span>
+<input type="submit"
+value="Submit"
+ng-disabled="myForm.$invalid">
+</form>
+{{fuck}}
+<script src="angular.1.3.js">
+</script>
+<script type="text/javascript">
+angular.module('notesApp', [])
+.controller('MainCtrl', [function () {
+var self = this;
+self.fuck='';
+self.submit = function () {
+self.fuck= self.user;
+};
+}]);
+</script>
+</body>
+</html>
+</div></div>

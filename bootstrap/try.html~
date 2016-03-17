@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.1">
+  <link rel="stylesheet" href="./bootstrap.min.css">
+  <script src="./jquery.min.js"></script>
+  <script src="./bootstrap.min.js"></script>
+<style>
+
+</style>
+</head>
+<body>
+
+
+
+<img src="./svg/pannel.svg"  class="img-responsive"  alt="Penny Partners" width = "1366" >
+
+</body></html>
